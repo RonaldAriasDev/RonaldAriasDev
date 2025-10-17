@@ -1,3 +1,1 @@
-👋 Hola, mi nombre es Ronald.
-Estoy aprendiendo Lógica de programación de forma autodidacta siguiendo el GitHub de MoureDev y resolviendo dudas con ChatGPT. 
-Empecé con Python, ahora estudio JavaScript y mi objetivo es crear páginas y aplicaciones web.
+👋 Hola, mi nombre es Ronald. He aprendido lógica de programación usando Python de forma autodidacta, siguiendo el GitHub de MoureDev y resolviendo dudas con ChatGPT. Actualmente estudio JavaScript con el objetivo de crear páginas y aplicaciones web.
